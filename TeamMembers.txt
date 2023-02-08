@@ -1,4 +1,4 @@
 Member1 = Ananya Sharma
 Member2 = Akshit Garg
-member3 = Alisha
+Member3 = Alisha
 Member4 = Ankush Dhiman
